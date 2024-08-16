@@ -11,7 +11,7 @@ This project is a starting point for a Flutter application.
 - Install Android Studio
 - Install Git
 - Put the path of flutter in enveroment variable 
-
+- if you don't put the installed flutter in the right nvroment you will face a lot of errors.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
