@@ -1,7 +1,7 @@
 # flutter_project
 
 A new Flutter project.
-## About project 
+## 
 This is the first project created using the flutter framework that makes advantage of its main feature. constructed using Dart and C++. 
 
 ## Getting Started
