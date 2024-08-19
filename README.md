@@ -14,8 +14,6 @@ This project is a starting point for a Flutter application.
 - if you don't put the installed flutter in the right nvroment you will face a lot of errors.
 A few resources to get you started if this is your first Flutter project:
 
-- [ Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
