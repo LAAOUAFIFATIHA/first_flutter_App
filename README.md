@@ -7,7 +7,7 @@ This is the first project created using the flutter framework that makes advanta
 ##  Getting Started
 This project is a starting point for a Flutter application.
 - Istall the tools .
-- Install Flutter .
+- Install Flutter  <a href="https://docs.flutter.dev/get-started/install"> install Now</a>  .
 - Install Android Studio.
 - Install Git .
 - Put the path of flutter in enveroment variable .
