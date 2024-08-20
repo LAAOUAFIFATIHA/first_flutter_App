@@ -4,7 +4,7 @@ A new Flutter project.
 ## About project 
 This is the first project created using the flutter framework that makes advantage of its main feature. constructed using Dart and C++. 
 
-##  Getting Started
+## 
 This project is a starting point for a Flutter application.
 - Istall the tools .
 - Install Flutter  <a href="https://docs.flutter.dev/get-started/install"> install Now</a>  .
