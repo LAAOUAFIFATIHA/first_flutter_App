@@ -19,7 +19,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### 🌐 Find Me Around the Web
+### 🌐
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
 - **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
